@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+<html>
+<head><meta charset="UTF-8"></head>
+<body>
+<center>
+<div id="head">
+<table width="1000" border="0" cellpadding="0" cellspacing="0">
+<tr> 
+     <td><img src="title.jpg"width="1000" height="100"></td>
+</tr>
+<tr>
+     <td align="center"><h1>國立聯合大學文觀系的個人網站</h1></td>
 
-You can use the [editor on GitHub](https://github.com/csl8929/www1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</tr>
+</table>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div id="nav1"><br>
+<table width="1000" border="0" cellpadding="0" cellspacing="1" bgcolor="#999999">
+<tr>
+    <td bgcolor="#FFFFFF"><a href="index.htm">作品集</a>　>　<a href="index.htm">遊程設計作品</a>　>　<a href="index.htm">苗栗遊程設計
+</td>
+</tr>
+</table>
+</div>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div id="cont"><br/>
+<table border="1" width="1000" cellpadding="0" cellspacing="1" bgcolor="#999999">
+<tr>
+<td align="center" bgcolor="#FFFFFF" colspan="2"><h1>旅遊行程規畫作品</h1><td>
+</tr>
 
-```markdown
-Syntax highlighted code block
+<tr>
+<td width="191" bgcolor="#FFFFFF" valign="top">
+<table width="181" cellpadding="0" cellspacing="1"
+<tr>選單列
+<td width="171">選項一</td>
+<tr>
+<tr>
+<td width="171">選項二</td>
+<tr>
+<tr>
+<td width="171">選項三</td>
+<tr>
+<tr>
+<td width="171">選項四</td>
+<tr>
+<tr>
+<td width="171">選項五</td>
+<tr>
+<tr>
+</table>
+</td>
+<td width="806" bgcolor="#FFFFFF" valign="top">
+<table width="800" cellpadding="0" cellspacing="1">
+<tr>
+<td ><img src="https://cdn.pixabay.com/photo/2020/06/17/13/51/mountain-5309606_960_720.jpg" width="145" height="200"></td>
+<td ><img src="https://cdn.pixabay.com/photo/2020/06/17/13/51/mountain-5309606_960_720.jpg" width="145" height="200"></td>
+<td ><img src="https://cdn.pixabay.com/photo/2020/06/17/13/51/mountain-5309606_960_720.jpg" width="145" height="200"></td>
+<td ><img src="https://cdn.pixabay.com/photo/2020/06/17/13/51/mountain-5309606_960_720.jpg" width="145" height="200"></td>
+<td ><img src="https://cdn.pixabay.com/photo/2020/06/17/13/51/mountain-5309606_960_720.jpg" width="145" height="200"></td>
+<tr> 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/csl8929/www1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<tr>
+<td align="center"><a href="http://www.nuu.edu.tw" target="_blank">行程規劃一</a></td>
+<td align="center">><a href="http://www.nuu.edu.tw" target="_blank">行程規劃二</a></td>
+<td align="center"><a href="http://www.nuu.edu.tw" target="_blank">行程規劃三</a></td>
+<td align="center"><a href="http://www.nuu.edu.tw" target="_blank">行程規劃四</a></td>
+<td align="center"><a href="http://www.nuu.edu.tw" target="_blank">行程規劃五</a></td>
+</table>
+</td>
+</body>
+</html>
